@@ -10,7 +10,8 @@ Taking in data from this NSDUH study, we get substance abuse rates across the co
 ![US National Substance Abuse Rates Over Time Ages 12-17](./National12to17.png)
 
 
-![US National Substance Abuse Rates Over Time Ages 18-25](./National18-25.png)
+![US National Substance Abuse Rates Over Time Ages 18-25](./National1to25.png)
+
 ![US National Substance Abuse Rates Over Time Ages 26+](./National26+.png)
 
 
