@@ -20,3 +20,4 @@
 ## Limitations
 - It was discovered early on that not every substance's rates had the same timeframes. For example, a lot of the drugs like alcohol, cocaine and marijuana had a past year rate, but cigarettes and tobacco only had a past month rate. This meant that for some drugs, the comparison would be made past off monthly rates, whereas others would be made off of yearly rates.
 - The only years that were featured in the data analysis were from 2002 to 2018, which excludes years up to the present as well as any years before 2002.
+- This data analysis uses New York State as the baseline for all trends. The analysis thus will fall short of showing the whole story across the United States for substance abuse but instead provide a picture of where New York State falls nationally.
