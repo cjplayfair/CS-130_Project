@@ -7,19 +7,19 @@ Every spreadsheet tells a story, but in our minds it can be hard to truly unders
 ## The Baseline
 Since this analysis uses New York State as a baseline, it is important to look at New York by itself before diving into nationwide statistics.Since the 26 and over age group represents the most significant age range, as it is the adults from 26 and onward, we can look at the rate of substance abuse of various drugs over the years to see how the state has done.
 
-![New York Alcohol 26+](./NYAlcohol26+)
+![New York Alcohol 26+](./NYAlcohol26+.png)
 Looking at the rate of substance abuse of alcohol over the years, it is clear that from 2008 to 2018 there was a massive decline year over year in abuse of alcohol. This paints a picture that the rest of the country will have a hard time beating. Several factors could have contributed to this decline, with strict public health policies limiting alcohol availability, aggressive promotion of healthier lifestyles, and the rise of non-alcoholic alternatives being key drivers of this rapid change.
 
-![New York Cigarettes 26+](./NYCigarettes26+)
+![New York Cigarettes 26+](./NYCigarettes26+.png)
 When looking into cigarette rates of abuse, we see a similar clear drop year over year, stemming all the way back in 2002. Key drivers of this change may be from a comprehensive strategy by the state with high taxes, strict marketing restrictions, and intensive public health campaigns.
 
-![New York Tobacco 26+](./NYTobacco26+)
+![New York Tobacco 26+](./NYTobacco26+.png)
 Similar to cigarettes, tobacco has seen a steady drop over the years. Also similarly, high taxes and strict smoking regulations in public spaces have led to strong changes. Bans on flavored e-cigarettes also contributed. 
 
-![New York Cocaine 26+](./NYCocaine26+)
+![New York Cocaine 26+](./NYCocaine26+.png)
 While looking into alcohol and cigarettes showed a lot of promise for the state, looking at the cocaine rate of substance abuse shows a much different story, with the rate climbing since 2010 back to very similar rates from 2005. Some key factors that have led to this increase could be record-breaking coca cultivation in Colombia that has led to a flood of the product and increased affordability from that, fentanyl contamination leading to accidental addiction, and distribution networks, with New York City remaining a hub for trafficking. Mental health issues and high levels of depression could also have led to such behaviors.
 
-![New York Marijuana 26+](./NYMarijuana26+)
+![New York Marijuana 26+](./NYMarijuana26+.png)
 Looking into marijuana, we see an increase, with the highest being from 2017 to 2018. This seems unsurprising, as increased accessibility and legalization has led to much higher usage. And high-potency products have assisted with increased substance abuse. With these results in mind, from alcohol, cigarettes and tobacco's success stories to cocaine and marijuana's steady increases, we can keep these data points in mind as we move to comparisons nationwide.
 
 
