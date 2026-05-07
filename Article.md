@@ -4,6 +4,25 @@
 ## The Data
 Every spreadsheet tells a story, but in our minds it can be hard to truly understand the choices and outcomes by staring at a screen of numbers. After loading a dataset made by CORGIS from a NSDUH study, ranging from 2002 to 2018 that measured substance abuse rates across all 50 states, it showed a digital reflection of public health across the United States. Isolating New York as a primary target of comparison provided a distinct story that revealed that substance abuse is dependent on where you live and how old you are. However, substance abuse is a universal problem that the United States needs to stand up to, regardless of state borders. In the study, alcohol, cigarette, cocaine, marijuana, and tobacco rates were tracked within three distinct age groups: 12 to 17, 18-25, and 26 and up. Across the 17 year span from 2002 through 2018 looking into these various age groups and drug categories, it can be identified how New York compares to the rest of the country.
 
+## The Baseline
+Since this analysis uses New York State as a baseline, it is important to look at New York by itself before diving into nationwide statistics.Since the 26 and over age group represents the most significant age range, as it is the adults from 26 and onward, we can look at the rate of substance abuse of various drugs over the years to see how the state has done.
+
+![New York Alcohol 26+](./NYAlcohol26+)
+Looking at the rate of substance abuse of alcohol over the years, it is clear that from 2008 to 2018 there was a massive decline year over year in abuse of alcohol. This paints a picture that the rest of the country will have a hard time beating. Several factors could have contributed to this decline, with strict public health policies limiting alcohol availability, aggressive promotion of healthier lifestyles, and the rise of non-alcoholic alternatives being key drivers of this rapid change.
+
+![New York Cigarettes 26+](./NYCigarettes26+)
+When looking into cigarette rates of abuse, we see a similar clear drop year over year, stemming all the way back in 2002. Key drivers of this change may be from a comprehensive strategy by the state with high taxes, strict marketing restrictions, and intensive public health campaigns.
+
+![New York Tobacco 26+](./NYTobacco26+)
+Similar to cigarettes, tobacco has seen a steady drop over the years. Also similarly, high taxes and strict smoking regulations in public spaces have led to strong changes. Bans on flavored e-cigarettes also contributed. 
+
+![New York Cocaine 26+](./NYCocaine26+)
+While looking into alcohol and cigarettes showed a lot of promise for the state, looking at the cocaine rate of substance abuse shows a much different story, with the rate climbing since 2010 back to very similar rates from 2005. Some key factors that have led to this increase could be record-breaking coca cultivation in Colombia that has led to a flood of the product and increased affordability from that, fentanyl contamination leading to accidental addiction, and distribution networks, with New York City remaining a hub for trafficking. Mental health issues and high levels of depression could also have led to such behaviors.
+
+![New York Marijuana 26+](./NYMarijuana26+)
+Looking into marijuana, we see an increase, with the highest being from 2017 to 2018. This seems unsurprising, as increased accessibility and legalization has led to much higher usage. And high-potency products have assisted with increased substance abuse. With these results in mind, from alcohol, cigarettes and tobacco's success stories to cocaine and marijuana's steady increases, we can keep these data points in mind as we move to comparisons nationwide.
+
+
 ## The Youth: Ages 12 to 17
 Taking in data from this NSDUH study, we get substance abuse rates across the country, spanning all the states, and across many age groups. One of such age groups was from ages 12 to 17. When looking into how New York State compared to all other states, it told quietly that New York sat comfortably below the national average. 
 
